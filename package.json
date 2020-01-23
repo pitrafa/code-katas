@@ -1,0 +1,14 @@
+{
+  "name": "code-katas",
+  "version": "1.0.0",
+  "description": "Project for practice code katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pitrafa@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
